@@ -12,5 +12,5 @@ hash[key] += 1
 else
 hash[key] = 1
 end
-puts hash[key]
+puts hash
 end
